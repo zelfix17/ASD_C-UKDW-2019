@@ -1,0 +1,16 @@
+F:\Dokumen\2017\AlgoStrukdat\program\Week8\DaftarMahasiswa\DaftarMahasiswa\bin\Debug\DaftarMahasiswa.exe
+F:\Dokumen\2017\AlgoStrukdat\program\Week8\DaftarMahasiswa\DaftarMahasiswa\bin\Debug\DaftarMahasiswa.pdb
+F:\Dokumen\2017\AlgoStrukdat\program\Week8\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.FormMahasiswa.resources
+F:\Dokumen\2017\AlgoStrukdat\program\Week8\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.Properties.Resources.resources
+F:\Dokumen\2017\AlgoStrukdat\program\Week8\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.csproj.GenerateResource.Cache
+F:\Dokumen\2017\AlgoStrukdat\program\Week8\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.exe
+F:\Dokumen\2017\AlgoStrukdat\program\Week8\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.pdb
+F:\Dokumen\2019\AlgoStrukdat\program\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.exe
+F:\Dokumen\2019\AlgoStrukdat\program\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.pdb
+D:\ASD_C_2019\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.exe
+D:\ASD_C_2019\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.pdb
+D:\ASD_C_2019\DaftarMahasiswa\DaftarMahasiswa\bin\Debug\DaftarMahasiswa.exe
+D:\ASD_C_2019\DaftarMahasiswa\DaftarMahasiswa\bin\Debug\DaftarMahasiswa.pdb
+D:\ASD_C_2019\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.FormMahasiswa.resources
+D:\ASD_C_2019\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.Properties.Resources.resources
+D:\ASD_C_2019\DaftarMahasiswa\DaftarMahasiswa\obj\x86\Debug\DaftarMahasiswa.csproj.GenerateResource.Cache
